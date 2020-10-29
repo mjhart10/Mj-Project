@@ -1,0 +1,12 @@
+img {
+    width: 145px;
+}
+
+.text1 {
+     font-family: "Lucida Console", Courier, monospace;
+}
+
+.img2 img {
+    width: 335px;
+    height: 260px;
+}
